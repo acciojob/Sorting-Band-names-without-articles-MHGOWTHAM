@@ -8,7 +8,7 @@ for (let index = 0; index < li_tags_count; index++){
 tags_content.forEach(tag_content => { 
 	const first_word = tag_content.split(" ");
 let not_article = first_word != "A" || first_word != "An" || first_word != "The";
-	
+not_article===(true);	
 }); 
 
 
